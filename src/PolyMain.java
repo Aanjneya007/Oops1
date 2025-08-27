@@ -1,0 +1,8 @@
+public class PolyMain {
+    public static void main(String[] args) {
+        Shape s = new Shape();
+        s.draw(12);
+        s.draw(12,13);
+
+    }
+}
